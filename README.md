@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hello, I am Marcin 👋
 
 <!--
 **10marianosikJoz/10marianosikJoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- :small_blue_diamond:
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+IT student 🔹 JVM languages enthusiast 🔹
+### 🛠 &nbsp;Tech Stack
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ 
+ ## Contact 
+ - :email: [Linkedin] https://www.linkedin.com/in/marcin-jóźwiak-7a5650203/
+ - :email: [E-mail] marcin.jozwiak1997@wp.pl
