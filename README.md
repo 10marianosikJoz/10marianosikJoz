@@ -21,4 +21,4 @@ IT student 🔹 JVM languages enthusiast 🔹
  
  ## Contact 
  - :email: [Linkedin](https://www.linkedin.com/in/marcin-jóźwiak-7a5650203/)
- - :email: [E-mail]marcin.jozwiak1997@wp.pl
+ - :email: marcin.jozwiak1997@wp.pl
