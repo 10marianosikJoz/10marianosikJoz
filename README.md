@@ -1,4 +1,4 @@
-### Hello, I am Marcin 👋
+# Hello, I am Marcin 👋
 
 <!--
 **10marianosikJoz/10marianosikJoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
